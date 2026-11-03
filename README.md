@@ -304,6 +304,7 @@ In this model:
 
 ---
 
+
 ## API Endpoints
 
 The table below is a **suggested REST API design**, not a verified list of endpoints. Replace paths, HTTP methods, and request examples with the mappings implemented in the controllers.
